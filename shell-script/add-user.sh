@@ -4,7 +4,7 @@
 #optionally you can also provide a comment for the account as an argument
 #Password must be automatically genertated for the account
 #username password and the host will be displayed
-
+#this is line is for test
 #1)make sure that the script is being excecuted with super user previlages
 if [[ "${UID}" -ne 0 ]]
 then
