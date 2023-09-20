@@ -5,3 +5,4 @@ echo "$s is very easy to learn"
 echo "now we are working on $s variables"
 date
 uptime
+whoami
